@@ -1,0 +1,29 @@
+{
+    "name": "@enterprize/exceptions",
+    "version": "1.0.0",
+    "description": "Generic basic exceptions that are very often used",
+    "main": "dist/index.js",
+    "scripts": {
+        "compile": "tsc --watch",
+        "test_dev": "nodemon --watch ./dist --delay 5 -r source-map-support/register ./dist/test/index.js"
+    },
+    "keywords": [
+        "Error",
+        "Exception",
+        "IllegalArgumentException",
+        "IllegalStateException",
+        "NotImplementeYetException",
+        "UnsupportedOperationException"
+    ],
+    "author": "Giancarlo Dalle Mole",
+    "license": "MIT",
+    "peerDependencies": {
+        "tslib": "^1.10.0"
+    },
+    "devDependencies": {
+        "@types/node": "13.1.8",
+        "nodemon": "2.0.2",
+        "source-map-support": "0.5.16",
+        "typescript": "3.7.5"
+    }
+}
