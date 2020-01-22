@@ -1,7 +1,7 @@
 import {
     Exception, IllegalArgumentException, IllegalStateException, NotImplementedYetException,
     UnsupportedOperationException
-} from "../";
+} from "../index";
 
 const exception: Exception = new Exception("A simple exception");
 const illegalArgumentException: IllegalArgumentException = new IllegalArgumentException("\"quantity\" must be greater than 0 (zero)", "quantity");
