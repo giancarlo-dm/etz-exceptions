@@ -154,3 +154,9 @@ See ***Inherits*** for the inherited attributes.
 |Attribute|Type|Description|
 |---|:---:|---|
 |``reason``|``string``|The reason for the operation not being supported..|
+
+# Sponsor
+
+Use my packages in your projects? You think they are awesome? So, help me give more time to develop them by becoming a sponsor. :wink:
+
+<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KT6SPVB84XLY&source=url"><img src="https://www.paypalobjects.com/en_US/i/btn/btn_donateCC_LG.gif" alt="PayPal - The safer, easier way to pay online!"></a>

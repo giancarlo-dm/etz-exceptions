@@ -2,6 +2,11 @@
     "name": "@enterprize/exceptions",
     "version": "1.0.0",
     "description": "Generic basic exceptions that are very often used",
+    "author": "Giancarlo Dalle Mole",
+    "license": "MIT",
+    "funding": {
+        "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KT6SPVB84XLY&source=url"
+    },
     "main": "dist/index.js",
     "scripts": {
         "compile": "tsc --watch",
@@ -15,8 +20,6 @@
         "NotImplementeYetException",
         "UnsupportedOperationException"
     ],
-    "author": "Giancarlo Dalle Mole",
-    "license": "MIT",
     "peerDependencies": {
         "tslib": "^1.10.0"
     },
