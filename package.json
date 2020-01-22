@@ -1,6 +1,6 @@
 {
     "name": "@enterprize/exceptions",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Generic basic exceptions that are very often used",
     "author": "Giancarlo Dalle Mole",
     "license": "MIT",
@@ -8,6 +8,7 @@
         "url": "https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=8KT6SPVB84XLY&source=url"
     },
     "main": "dist/index.js",
+    "types": "dist/index.d.ts",
     "scripts": {
         "compile": "tsc --watch",
         "test_dev": "nodemon --watch ./dist --delay 5 -r source-map-support/register ./dist/test/index.js"
