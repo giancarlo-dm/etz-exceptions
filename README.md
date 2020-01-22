@@ -1,6 +1,8 @@
 # Enterprize Exceptions (etz-exceptions)
 
-Tired of using the plain ``Error`` class? Want some common ``Exceptions`` out of the box? Want to add details in an elegant and typed way? Start using ***Enterprize Exceptions***! 
+Tired of using the plain ``Error`` class? Want some common ``Exceptions`` out of the box? Want to add details in an elegant and typed way? Start using ***Enterprize Exceptions***!
+
+[![npm version](https://badge.fury.io/js/%40enterprize%2Fexceptions.svg)](https://badge.fury.io/js/%40enterprize%2Fexceptions) 
 
 # Features
 
