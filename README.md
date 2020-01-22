@@ -4,7 +4,7 @@ Tired of using the plain ``Error`` class? Want some common ``Exceptions`` out of
 
 # Features
 
-Jokes aside (:grin:), the following exceptions are implemented out of the box:
+Jokes aside :grin:, the following exceptions are implemented out of the box:
 
 - ``Exception``
 - ``IllegalArgumentException``
